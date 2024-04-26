@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "POVIDONA",
+    "precio": 30,
+    "imagen": "https://www.farmaciasahumada.cl/on/demandware.static/-/Sites-ahumada-master-catalog/default/dwe1e92f20/images/products/85341/85341.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "AGUA OXIGENADA",
+    "precio": 20,
+    "imagen": "https://farmacorp.com/cdn/shop/files/7770108219767_grande.jpg?v=1705678312"
+  },
+  {
+    "id": 3,
+    "nombre": "ALCOHOL TELCHI",
+    "precio": 40,
+    "imagen": "https://materiales.com.bo/cdn/shop/products/A2_300x.png?v=1591054911"
+  },
+  {
+    "id": 4,
+    "nombre": "ALGODON",
+    "precio": 10,
+    "imagen": "https://insumosmedicoscolombia.com/wp-content/uploads/2022/06/ALGODON-TORUNDA.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "DR. BELL",
+    "precio": 50,
+    "imagen": "https://www.saebolivia.com/wp-content/uploads/2022/11/2500.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "JOINTS",
+    "precio": 70,
+    "imagen": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/49364e5a-7891-4afc-975e-9b5d24581b2b.03e3a6b877b6735242a20d1c900b809c.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+  },
+  {
+    "id": 7,
+    "nombre": "DIZAAR",
+    "precio": 95,
+    "imagen": "https://hmmedical.pe/wp-content/uploads/2022/04/Crema-Muscular-DISAAR-x100gr.png"
+  },
+  {
+    "id": 8,
+    "nombre": "VOLTAREN",
+    "precio": 60,
+    "imagen": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/voltaren/es_AR/tablet/product_detail_pages/tablet_products_emulgel.jpg?auto=format"
+  },
+  {
+    "id": 9,
+    "nombre": "OMEPRAZOL",
+    "precio": 90000,
+    "imagen": "https://www.saebolivia.com/wp-content/uploads/2022/11/2346.png"
+  },
+  {
+    "id": 10,
+    "nombre": "DICLOFENACO",
+    "precio": 180000,
+    "imagen": "https://laboratoriosifa.com/wp-content/uploads/Diclofenaco-100-mg.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "REFRIANEX",
+    "precio": 250000,
+    "imagen": "https://farmacorp.com/cdn/shop/files/7770102003201_286x286.jpg?v=1705678029"
+  },
+  {
+    "id": 12,
+    "nombre": "PARACETAMOL",
+    "precio": 312000,
+    "imagen": "https://fsa.bo/productos/01061-01.jpg"
+  }
+]
